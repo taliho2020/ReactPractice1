@@ -1,0 +1,12 @@
+C:\Users\TAL\Source\Repos\ReactDemo2\ReactDemo2\bin\Debug\netcoreapp2.0\Assets\Images\AlpsLake2.png
+C:\Users\TAL\Source\Repos\ReactDemo2\ReactDemo2\bin\Debug\netcoreapp2.0\ReactDemo2.deps.json
+C:\Users\TAL\Source\Repos\ReactDemo2\ReactDemo2\bin\Debug\netcoreapp2.0\ReactDemo2.runtimeconfig.json
+C:\Users\TAL\Source\Repos\ReactDemo2\ReactDemo2\bin\Debug\netcoreapp2.0\ReactDemo2.runtimeconfig.dev.json
+C:\Users\TAL\Source\Repos\ReactDemo2\ReactDemo2\bin\Debug\netcoreapp2.0\ReactDemo2.dll
+C:\Users\TAL\Source\Repos\ReactDemo2\ReactDemo2\bin\Debug\netcoreapp2.0\ReactDemo2.pdb
+C:\Users\TAL\Source\Repos\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp2.0\ReactDemo2.csproj.CoreCompileInputs.cache
+C:\Users\TAL\Source\Repos\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp2.0\ReactDemo2.AssemblyInfoInputs.cache
+C:\Users\TAL\Source\Repos\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp2.0\ReactDemo2.AssemblyInfo.cs
+C:\Users\TAL\Source\Repos\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp2.0\ReactDemo2.dll
+C:\Users\TAL\Source\Repos\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp2.0\ReactDemo2.pdb
+C:\Users\TAL\Source\Repos\ReactDemo2\ReactDemo2\obj\Debug\netcoreapp2.0\ReactDemo2.csprojAssemblyReference.cache
